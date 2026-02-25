@@ -76,5 +76,6 @@ handicraft-store-webapp/
 
 ## 👨‍💻 Author
 
-**Kota Ramesh**
-CS B.Tech Student
+**Rama Krishna Prasad Yellapu**
+CSE B.Tech Student
+
